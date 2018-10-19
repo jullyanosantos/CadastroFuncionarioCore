@@ -1,0 +1,11 @@
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\bin\Debug\netcoreapp2.1\Domain.Contracts.deps.json
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\bin\Debug\netcoreapp2.1\Domain.Contracts.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\bin\Debug\netcoreapp2.1\Domain.Contracts.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\bin\Debug\netcoreapp2.1\Infrastructure.Dto.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\bin\Debug\netcoreapp2.1\Infrastructure.Dto.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.csprojResolveAssemblyReference.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.csproj.CoreCompileInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.AssemblyInfoInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.AssemblyInfo.cs
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Domain.Contracts\obj\Debug\netcoreapp2.1\Domain.Contracts.pdb

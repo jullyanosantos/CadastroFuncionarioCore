@@ -1,0 +1,6 @@
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\bin\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.deps.json
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\bin\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\obj\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.csprojResolveAssemblyReference.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\obj\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.csproj.CoreCompileInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\obj\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.AssemblyInfoInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\CadastroFuncionarioCore.Data\obj\Debug\netcoreapp2.1\CadastroFuncionarioCore.Data.AssemblyInfo.cs

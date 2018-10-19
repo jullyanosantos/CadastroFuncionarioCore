@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Domain.Entities/1.0.0": {
+        "dependencies": {
+          "Domain.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Domain.Entities.dll": {}
+        }
+      },
+      "Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "Infrastructure.Dto": "1.0.0"
+        },
+        "runtime": {
+          "Domain.Contracts.dll": {}
+        }
+      },
+      "Infrastructure.Dto/1.0.0": {
+        "runtime": {
+          "Infrastructure.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

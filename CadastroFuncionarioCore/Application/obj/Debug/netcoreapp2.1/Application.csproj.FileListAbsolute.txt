@@ -1,0 +1,15 @@
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Domain.Contracts.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Domain.Entities.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Infrastructure.Dto.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.csprojResolveAssemblyReference.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Application.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Application.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Domain.Contracts.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Domain.Entities.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\bin\Debug\netcoreapp2.1\Infrastructure.Dto.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Application\obj\Debug\netcoreapp2.1\Application.pdb

@@ -1,0 +1,17 @@
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.deps.json
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.dll
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.pdb
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.AssemblyInfoInputs.cache
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.AssemblyInfo.cs
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.dll
+C:\Users\Jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.pdb
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.deps.json
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.dll
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.0\Infrastructure.Dto.pdb
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.csprojAssemblyReference.cache
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.csproj.CoreCompileInputs.cache
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.AssemblyInfoInputs.cache
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.AssemblyInfo.cs
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.dll
+E:\hd\ExtraFarma\Projetos\pessoais\ASP NET CORE\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.0\Infrastructure.Dto.pdb

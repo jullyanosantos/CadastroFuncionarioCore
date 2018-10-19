@@ -1,0 +1,56 @@
+﻿<h1>{{title}}</h1>
+<h3>Funcionário</h3>
+<hr />
+<form [formGroup]="funcionarioForm" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+
+    <div class="form-group row">
+        <label class=" control-label col-md-12">Nome</label>
+        <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="nome" />
+        </div>
+        <span class="text-danger" *ngIf="ativo.invalid && formDir.submitted">
+            Nome do funcionário é obrigatório!
+        </span>
+    </div>
+
+    <div class="form-group row">
+        <label class="control-label col-md-12" for="ativo">Ativo</label>
+        <div class="col-md-4">
+            <select class="form-control" data-val="true" formControlName="ativo">
+                <option value="">-- Selecione --</option>
+                <option value="1">Sim</option>
+                <option value="0">Não</option>
+            </select>
+        </div>
+        <span class="text-danger" *ngIf="ativo.invalid && formDir.submitted">
+            Status do funcionário é obrigatório!
+        </span>
+    </div>
+
+    <div class="form-group row">
+        <label class="control-label col-md-12" for="nascimento">Data Nascimento</label>
+        <div class="col-md-4">
+
+            <!--<input type="date" #myDate [ngModel]="nascimento | date:'dd-MM-yyyy'" [value]="nascimento" formControlName="nascimento" (ngModelChange)="nascimento = $event" [value]="datee | date:'dd-MM-yyyy'">-->
+            <!--<input type="date" #myDate [value]="nascimento | date:'dd-MM-yyyy'" formControlName="nascimento" (input)="nascimento=parseDate($event.taget.value)" />-->
+
+            <input class="form-control" type="text" formControlName="nascimento" maxlength="10" customDateFormatterDirective>
+        </div>
+        <span class="text-danger" *ngIf="nascimento.invalid && formDir.submitted">
+            Data de Nascimento é obrigatória!
+        </span>
+    </div>
+    <div class="form-group row">
+        <label class="control-label col-md-12" for="salario">Salário</label>
+        <div class="col-md-4">
+            <input type="text" class="form-control" formControlName="salario" customCurrencyFormatterDirective />
+        </div>
+        <span class="text-danger" *ngIf="salario.invalid && formDir.submitted">
+            Salário é obrigatório!
+        </span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-floppy-save"></i> Salvar</button>
+        <button class="btn btn-danger" (click)="cancel()">Cancel</button>
+    </div>
+</form>

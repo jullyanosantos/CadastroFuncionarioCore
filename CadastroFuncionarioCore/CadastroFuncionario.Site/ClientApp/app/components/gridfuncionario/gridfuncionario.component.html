@@ -1,0 +1,65 @@
+﻿<h2>Funcionários</h2>
+
+<p *ngIf="!lstFuncionario"><em>Aguarde...</em></p>
+
+<div class="panel-group" id="accordion">
+    <div class="panel panel-default box box-primary">
+
+        <div id="collapseOne" class="panel-collapse collapse in">
+            <div class="panel-body">
+                <div class="form-group col-md-6">
+                    <p>
+                        <a [routerLink]="['/criar-funcionario']"> <span class='glyphicon glyphicon-new-window'></span> Novo</a>
+                    </p>
+                </div>
+                <form>
+                    <div class="form-group col-md-6">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="glyphicon glyphicon-search"></i></div>
+                            <input type="text" class="form-control" name="searchString" placeholder="Pesquise pelo nome..." [(ngModel)]="searchString">
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default box box-primary">
+        <div class="container">
+            <h4 class="widget-title cor-primary"><i class="glyphicon glyphicon-th-list"></i> Funcionários</h4>
+        </div>
+
+        <div id="collapseTwo" class="panel-collapse collapse in">
+            <div class="" *ngIf="lstFuncionario.length > 0">
+                <table class='table table-hover table-striped'>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nome</th>
+                            <th>Data de Nascimento</th>
+                            <th>Salário</th>
+                            <th>Status</th>
+                            <th>#</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let func of lstFuncionario | filter : 'nome' : searchString; let i = index">
+                            <td>{{ func.id }}</td>
+                            <td>{{ func.nome }}</td>
+                            <td>{{ func.nascimento | date: 'dd/MM/yyyy' }}</td>
+                            <td>{{ func.salario | currency:'BRL':true:'1.2-2'}}</td>
+                            <td>{{ func.ativo }}</td>
+                            <td>
+                                <a [routerLink]="['/funcionario/editar/', func.id]"><i class="glyphicon glyphicon-pencil"></i></a>  | 
+                                <a [routerLink]="" (click)="delete(func.id)"><i class="glyphicon glyphicon-trash"></i></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default box box-primary" style="text-align: center;">
+        <span *ngIf="lstFuncionario == 0"><span class='glyphicon glyphicon-exclamation-sign'></span> Não existem registros...</span>
+    </div>
+</div>

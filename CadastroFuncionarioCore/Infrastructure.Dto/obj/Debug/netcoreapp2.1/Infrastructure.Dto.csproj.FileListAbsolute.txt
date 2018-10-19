@@ -1,0 +1,9 @@
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.1\Infrastructure.Dto.deps.json
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.1\Infrastructure.Dto.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\bin\Debug\netcoreapp2.1\Infrastructure.Dto.pdb
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.csprojResolveAssemblyReference.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.csproj.CoreCompileInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.AssemblyInfoInputs.cache
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.AssemblyInfo.cs
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.dll
+c:\users\jullyano\source\repos\CadastroFuncionarioCore\Infrastructure.Dto\obj\Debug\netcoreapp2.1\Infrastructure.Dto.pdb
